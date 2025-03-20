@@ -1,8 +1,8 @@
 {
-  "name": "PopoBot",
+  "name": "Popo-Bot",
   "version": "1.0",
-  "authors": ["Popo Shiroyo"],
-  "description": "A bot that drives forward and backward, and fires a bullet",
+  "authors": ["17 - PopoShiroyo"],
+  "description": "A bot that is destined to win -created by popo?? shiroyoo~",
   "homepage": "",
   "countryCodes": ["id"],
   "platform": ".Net 9.0",

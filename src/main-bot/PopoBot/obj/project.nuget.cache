@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6KxLiYwXr/k=",
+  "dgSpecHash": "zAyQUsqp1PI=",
   "success": true,
-  "projectFilePath": "C:\\Users\\kefas\\Downloads\\Tubes1Stima\\tubes1-if2211-starter-pack-1.0\\sample-bots-csharp-0.30.0\\PopoBot\\PopoBot.csproj",
+  "projectFilePath": "C:\\Users\\kefas\\Documents\\VSCode\\ITB135\\SMT4\\STIMA\\Tubes1PopoShiroyo\\Tubes1_PopoShiroyo\\src\\main-bot\\PopoBot\\PopoBot.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\kefas\\.nuget\\packages\\microsoft.build.locator\\1.7.8\\microsoft.build.locator.1.7.8.nupkg.sha512",
     "C:\\Users\\kefas\\.nuget\\packages\\microsoft.extensions.configuration\\8.0.0\\microsoft.extensions.configuration.8.0.0.nupkg.sha512",

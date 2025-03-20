@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PopoBot")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f07dbfe832e33041796049036b3948c36b4d8559")]
 [assembly: System.Reflection.AssemblyProductAttribute("PopoBot")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PopoBot")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
