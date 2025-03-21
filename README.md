@@ -12,6 +12,7 @@ Dipersiapkan oleh Kelompok 17 - Popo? Shiroyo!:
 | Kefas Kurnia Jonathan     | 13523113 |
 ## Penjelasan Singkat Algoritma Greedy
 <p align="justify"> Cari Tahu adalah sebuah website dengan bahasa pemrograman Python yang dapat melakukan pencarian gambar dan audio dengan cara menerima input file gambar atau file midi beserta database dan mapper lalu menampilkan hasil pencarian file dengan persentase kemiripan terbesar dengan isi database. Dengan adanya website ini, diharapkan dapat membantu pengguna dalam menemukan nama musik dan gambar album musiknya melalui query audio dan gambar.</p>
+
 ## Requirement Program
 ## Command/Langkah-Langkah Meng-Compile/Build Program
 1. Clone Repository
